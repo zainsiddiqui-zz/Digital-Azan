@@ -1,0 +1,75 @@
+# Created by Ultra Librarian 8.3.353 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "SW2_1825027-E_TEC")
+Pad (Name "1") (Location 0, 0) (HoleSize 39) (Surface False) (Rotation 0) (ExpandMask -29.5) (ExpandPaste -29.5)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Top)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "2") (Location 177.1654, 0) (HoleSize 39) (Surface False) (Rotation 0) (ExpandMask -29.5) (ExpandPaste -29.5)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Top)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "3") (Location -49.40945698, 98.04329123) (HoleSize 51) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -35.5)
+PadShape (Size 71, 71) (Shape Rounded) (Layer Top)
+PadShape (Size 71, 71) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "4") (Location 226.57485698, 98.04329123) (HoleSize 51) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -35.5)
+PadShape (Size 71, 71) (Shape Rounded) (Layer Top)
+PadShape (Size 71, 71) (Shape Rounded) (Layer Bottom)
+EndPad
+Line (Width 1) (Start 157.5827, -131.61812615) (End 157.5827, -271.61812615) (Layer Mechanical13) 
+Line (Width 1) (Start 19.5827, -131.61812615) (End 19.5827, -271.61812615) (Layer Mechanical13) 
+Line (Width 1) (Start 19.5827, -271.61812615) (End 157.5827, -271.61812615) (Layer Mechanical13) 
+Line (Width 1) (Start -51.4173, -131.61812615) (End 228.5827, -131.61812615) (Layer Mechanical13) 
+Line (Width 1) (Start 228.5827, -131.61812615) (End 228.5827, 157.88187385) (Layer Mechanical13) 
+Line (Width 1) (Start 228.5827, 157.88187385) (End -51.4173, 157.88187385) (Layer Mechanical13) 
+Line (Width 1) (Start -51.4173, 157.88187385) (End -51.4173, -131.61812615) (Layer Mechanical13) 
+Text (Location 37.5, -25) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "*")
+Line (Width 6) (Start -82.83459736, 167.88187385) (End -82.83459736, -281.61812615) (Layer Mechanical15) 
+Line (Width 6) (Start -82.83459736, -281.61812615) (End 257.16540264, -281.61812615) (Layer Mechanical15) 
+Line (Width 6) (Start 257.16540264, -281.61812615) (End 257.16540264, 167.88187385) (Layer Mechanical15) 
+Line (Width 6) (Start 257.16540264, 167.88187385) (End -82.83459736, 167.88187385) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-82.83459736, 167.88187385)
+Point (-82.83459736, -281.61812615)
+Point (257.16540264, -281.61812615)
+Point (257.16540264, 167.88187385)
+EndPolygon
+Line (Width 6) (Start -56.4173, -136.61812615) (End 233.5827, -136.61812615) (Layer TopOverlay) 
+Line (Width 6) (Start 233.5827, -136.61812615) (End 233.5827, 45.49898491) (Layer TopOverlay) 
+Line (Width 6) (Start 233.5827, 162.88187385) (End -56.4173, 162.88187385) (Layer TopOverlay) 
+Line (Width 6) (Start -56.4173, 162.88187385) (End -56.4173, 145) (Layer TopOverlay) 
+Line (Width 6) (Start -56.4173, 45.49898491) (End -56.4173, -136.61812615) (Layer TopOverlay) 
+Line (Width 6) (Start 233.5827, 145) (End 233.5827, 162.88187385) (Layer TopOverlay) 
+Text (Location -82.5, -25) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "*")
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "1-1825027-4") (PartCount 1) (DesPrefix "SW?")
+Pin (Location -200, 0) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 200, 0) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location -200, -100) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Visible "3") (Name Hidden "3") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 200, -100) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Visible "4") (Name Hidden "4") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Line (Width 8) (Start -200, 0) (End -150, 0) (Part 1)
+Line (Width 8) (Start 200, 0) (End 150, 0) (Part 1)
+Line (Width 8) (Start -125, 0) (End 150, 75) (Part 1)
+Line (Width 8) (Start -200, -100) (End 200, -100) (Part 1)
+Line (Width 8) (Start 0, -100) (End 0, -150) (Part 1)
+Line (Width 8) (Start -35, -150) (End 35, -150) (Part 1)
+Line (Width 8) (Start -25, -165) (End 25, -165) (Part 1)
+Line (Width 8) (Start -15, -180) (End 15, -180) (Part 1)
+Line (Width 8) (Start -5, -195) (End 5, -195) (Part 1)
+Arc (Width 10) (Radius 25) (Location 125, 0) (StartAngle 0) (EndAngle 360) (Part 1)
+Arc (Width 10) (Radius 25) (Location -125, 0) (StartAngle 180) (EndAngle 540) (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "TE Connectivity") (Part 1)
+Parameter (Name "RefDes") (Location 0, 150) (Height 137) (Rotation 0) (Justification Center) (Value "") (Part 1)
+Parameter (Name "Type") (Location 0, -125) (Height 137) (Rotation 0) (Justification Center) (Value "") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "SW2_1825027-E_TEC")
+EndComponent
+EndComponents

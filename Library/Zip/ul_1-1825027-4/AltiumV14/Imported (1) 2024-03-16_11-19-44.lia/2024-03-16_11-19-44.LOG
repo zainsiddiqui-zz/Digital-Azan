@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : 2024-03-16_11-19-44.LibPkg
+
+Section : D:\Files From Probook\Freelance\Digital Azan Clock\Library\Zip\ul_1-1825027-4\AltiumV14\2024-03-16_11-19-44.lia
+    Section : PCB Library - 2024-03-16_11-19-44.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token poly On Line 384
+            Warning - 1 : Skipping Token poly On Line 392
+            Warning - 1 : Skipping Token SW2_1825027-A On Line 715
+            Warning - 1 : Skipping Token attachedSymbol On Line 774
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 2024-03-16_11-19-44.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token padStyleDef On Line 22
+            Warning - 1 : Skipping Token patternDef On Line 320
+        EndSection
+
+        Section : Generating SCH Library - 2024-03-16_11-19-44.SchLib
+        EndSection
+    EndSection
+EndSection
