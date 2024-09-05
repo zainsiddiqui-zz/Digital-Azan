@@ -1,0 +1,30 @@
+Added Component: Designator=J9(HDR1X6_)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-C37208_C37208.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C37208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C37208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Component: Designator=J10(HDR1X6_)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-C37208_C37208.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C37208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C37208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J9-1
+Added Pin To Net: NetName=CD_DET Pin=J9-2
+Added Pin To Net: NetName=CS Pin=J9-3
+Added Pin To Net: NetName=MOSI Pin=J9-4
+Added Pin To Net: NetName=MISO Pin=J9-5
+Added Pin To Net: NetName=GND Pin=J9-6
+Added Pin To Net: NetName=+3V3 Pin=J10-1
+Added Pin To Net: NetName=SCLK Pin=J10-2
+Added Pin To Net: NetName=IPPS Pin=J10-3
+Added Pin To Net: NetName=TX Pin=J10-4
+Added Pin To Net: NetName=RX Pin=J10-5
+Added Pin To Net: NetName=GND Pin=J10-6
+Added Member To Class: ClassName=U_Controller_Sheet Member=Component J9 C37208
+Added Member To Class: ClassName=U_Controller_Sheet Member=Component J10 C37208

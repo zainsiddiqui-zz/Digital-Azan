@@ -1,0 +1,178 @@
+Change Component Footprint: Designator=D1 Old Footprint=DSN0603-2 New Footprint=VS3V3BC1HST15R
+Change Component Footprint: Designator=J8 Old Footprint=FH19C-6S-0.5SH(10)_ New Footprint=FPC-05F-6PH20
+Change Component Comment : Designator=R27 Old Comment= New Comment=200R
+Change Component Comment : Designator=F1 Old Comment= New Comment=FUSE
+Change Component Comment : Designator=D1 Old Comment= New Comment=VS3V3BC1HST15R
+Change Component Comment : Designator=C11 Old Comment=4.7nF New Comment=4.7uF
+Change Component Comment : Designator=C32 Old Comment=4.7nF New Comment=4.7uF
+Change Component Comment : Designator=J8 Old Comment=FH19C-6S-0.5SH(10) New Comment=FPC-05F-6PH20
+Change component parameters: Designator = "C11" ("C11"); Footprint = "Cap-0603"; UniqueID = "\YOQKHOFS\CERHEXPY" ("\YOQKHOFS\CERHEXPY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB472_C106218.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C106218"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB472"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "Cap-0603"; UniqueID = "\OOPEXQPY\UTUPHPAT" ("\OOPEXQPY\UTUPHPAT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB472_C106218.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C106218"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB472"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DSN0603-2"; UniqueID = "\YOQKHOFS\STSVBOJF" ("\YOQKHOFS\STSVBOJF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Electrostatic-and-Surge-Protection-TVS-ESD_ROHM-Semicon-VS3V3BC1HST15R_C509714.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "TVS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "VS3V3BC1HST15R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "VS3V3BC1HST15R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-962"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "Fuse 1206 (3216 Metric)"; UniqueID = "\YOQKHOFS\XLWXFOWS" ("\YOQKHOFS\XLWXFOWS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Resettable-Fuses_LUTE-1206L300SL12AR_C18198361.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "FUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C18198361"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "LUTE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "FH19C-6S-0.5SH(10)_"; UniqueID = "\JMDSTALT\GORSIQIE" ("\JMDSTALT\GORSIQIE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/FFC-FPC-Connectors_XUNPU-FPC-05F-6PH20_C2856796.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "FPC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2856796"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XUNPU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FPC-05F-6PH20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,P=0.5mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "FXL0530-3R3-M"; UniqueID = "\YOQKHOFS\OUCXQNKT" ("\YOQKHOFS\OUCXQNKT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Power-Inductors_cjiang-Changjiang-Microelectronics-Tech-FXL0530-3R3-M_C475518.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C475518"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "cjiang (Changjiang Microelectronics Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FXL0530-3R3-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,5.2x5.4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "Res-0603"; UniqueID = "\OOPEXQPY\OZDGOCQY" ("\OOPEXQPY\OZDGOCQY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LSCS Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3301T5E_C22978.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C22978"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF3301T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "Res-0603"; UniqueID = "\OOPEXQPY\IJFYPBWA" ("\OOPEXQPY\IJFYPBWA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LSCS Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3301T5E_C22978.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C22978"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF3301T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "Res-0603"; UniqueID = "\OOPEXQPY\PFSWRWSB" ("\OOPEXQPY\PFSWRWSB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LSCS Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3301T5E_C22978.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C22978"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF3301T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "Res-0603"; UniqueID = "\OOPEXQPY\JSUNXYLK" ("\OOPEXQPY\JSUNXYLK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LSCS Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3301T5E_C22978.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C22978"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF3301T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "Res-0603"; UniqueID = "\OOPEXQPY\KXYHIGYC" ("\OOPEXQPY\KXYHIGYC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LSCS Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3301T5E_C22978.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C22978"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF3301T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "Res-0402"; UniqueID = "\DWQBSFCF\KXMPUFCR" ("\DWQBSFCF\KXMPUFCR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0402F2000TS_C2909333.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2909333"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0402F2000TS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "Res-0402"; UniqueID = "\DWQBSFCF\ESIMKZEW" ("\DWQBSFCF\ESIMKZEW")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF2401TCE_C25882.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C25882"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2401TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "Res-0402"; UniqueID = "\DWQBSFCF\GLCNVSLQ" ("\DWQBSFCF\GLCNVSLQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF2401TCE_C25882.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C25882"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2401TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "Res-0402"; UniqueID = "\YOQKHOFS\TVSIIXMM" ("\YOQKHOFS\TVSIIXMM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0402F2000TS_C2909333.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2909333"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC0402F2000TS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "Res-0603"; UniqueID = "\JMDSTALT\BRZJEBXU" ("\JMDSTALT\BRZJEBXU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LSCS Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3301T5E_C22978.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C22978"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF3301T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found HDR1X6_
+Add Component: Footprint Not Found HDR1X6_
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-3
+Add Pin To Net: Unknown Pin: Pin J9-1
+Add Pin To Net: Unknown Pin: Pin J9-2
+Add Pin To Net: Unknown Pin: Pin J9-3
+Add Pin To Net: Unknown Pin: Pin J9-4
+Add Pin To Net: Unknown Pin: Pin J9-5
+Add Pin To Net: Unknown Pin: Pin J9-6
+Add Pin To Net: Unknown Pin: Pin J10-1
+Add Pin To Net: Unknown Pin: Pin J10-2
+Add Pin To Net: Unknown Pin: Pin J10-3
+Add Pin To Net: Unknown Pin: Pin J10-4
+Add Pin To Net: Unknown Pin: Pin J10-5
+Add Pin To Net: Unknown Pin: Pin J10-6
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_4 Pin=L3-2
+Added Pin To Net: NetName=NetJ6_4 Pin=U5-11
+Added Net: Name=NetJ6_4
+Add Class Member: Failed to add class member : Component J9 C37208
+Add Class Member: Failed to add class member : Component J10 C37208
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3.81mm

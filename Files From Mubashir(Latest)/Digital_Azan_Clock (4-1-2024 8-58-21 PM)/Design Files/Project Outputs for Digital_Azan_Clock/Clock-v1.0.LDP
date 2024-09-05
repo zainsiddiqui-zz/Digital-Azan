@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Muneeb Khan\Downloads\Final Digital Azan clock\Digital_Azan_Clock (4-1-2024 8-58-21 PM)\Design Files\Clock-v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=clock-v1.0-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=clock-v1.0-slotholes.txt|DrillLayers=gtl,gbl
